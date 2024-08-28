@@ -58,6 +58,7 @@
     background-color: white;
     width: 500px;
     border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 .main h2 {
@@ -68,6 +69,10 @@
 .main span {
     margin-bottom: 16px;
     font-weight: bold;
+}
+
+.returnLink a {
+    color: #0000FF; 
 }
 
 @media (max-width: 620px) {

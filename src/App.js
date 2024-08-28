@@ -84,6 +84,10 @@ function App() {
           <span>{cep.localidade} - {cep.uf}</span>
         </main>
       )}
+
+      <div className='returnLink'> 
+        <a href='https://tiagoroglio.com.br/newPortfolio'>Voltar à página principal...</a>
+      </div>
     </div>
   );
 }
